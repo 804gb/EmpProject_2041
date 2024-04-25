@@ -1,0 +1,11 @@
+opendatasets
+kaggle
+beautifulsoup4
+nltk
+econml
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
