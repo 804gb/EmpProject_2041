@@ -33,6 +33,7 @@ The datasets used are within their respective sub-directories, for the reddit po
 RedditWSB and for the tweets and stocks, Social. All plots produced will download 
 to the Plots sub-directory.
 
+Links to the repository and blog post can be found within blog.txt
 ## Running Instructions
 
 Within the directory there is a makefile that will install the required packages via pip
